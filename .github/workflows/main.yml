@@ -9,8 +9,9 @@
      name: Make gitartwork SVG
      runs-on: ubuntu-latest
      steps:
-       - uses: actions/checkout@latest
-       - uses: jasineri/gitartwork@latest
+       - uses: 'node16'
+       - uses: actions/checkout@2
+       - uses: jasineri/gitartwork@1
          with:
             # Use this username's contribution graph  
             user_name: Farhang
