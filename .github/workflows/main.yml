@@ -7,9 +7,8 @@
  jobs:
    build:
      name: Make gitartwork SVG
-     runs-on: ubuntu-latest
+     runs-on: 'node16'
      steps:
-       - uses: 'node16'
        - uses: actions/checkout@2
        - uses: jasineri/gitartwork@1
          with:
