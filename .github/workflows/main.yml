@@ -6,7 +6,10 @@ on:
 jobs:
   build:
     name: Jobs to update datas
-    runs-on: ubuntu-latest
+    
+    runs-on:
+      group: 'node16'
+      labels: 'main.js'
     steps:
       # Summary Cards
       - uses: actions/checkout@v2
