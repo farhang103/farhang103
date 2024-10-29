@@ -9,7 +9,6 @@ I think I'm been a TypeScript lover and a JavaScript hater for quite a while now
 * 🌍  I'm based in Toronto, ON
 * 🖥️  See my portfolio at [FeryDev](https://www.ferydev.com/)
 * ✉️  You can contact me at [farhang.alizadeh@proton.me](mailto:farhang.alizadeh@proton.me)
-* 🧠  I'm learning NextJS v13 && Web3
 
 ### Skills
 
