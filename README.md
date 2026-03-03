@@ -7,7 +7,7 @@ More of a Context Engineer now!
 It used to be my Google search is better than yours, now it's more about my sh!tty context is better than yours for LLM 😅
 
 * 🌍  I'm based in Toronto, ON
-* ✉️  You can contact me at [farhang.alizadeh@proton.me](mailto:farhang.alizadeh@proton.me)
+* ✉️  You can contact me at [farhang104alizadeh@gmail.com](mailto:farhang104alizadeh@gmail.com)
 
 ### Skills
 
